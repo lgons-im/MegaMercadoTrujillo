@@ -1,2 +1,1 @@
-Cada producto tiene una ilustracion SVG con el estilo de la marca (img/productos/*.svg).
-Si luego tienes fotos reales, guardalas con el mismo nombre y cambia la extension de la ruta en js/config/productos.js.
+
